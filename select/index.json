@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "phony",
+  "base_artist": "Will Stetson",
+  "createdAt": "2026-03-06T14:09:42.023989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Phony Rappers",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/01_Phony_Rappers_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "No Phony Love (feat. Charlie Wilson)",
+      "artist": "Nas feat. Charlie Wilson",
+      "has_synced": true,
+      "path": "select/02_No_Phony_Love_(feat._Charlie_Wilson)_Nas_feat._Charlie_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No Phony Love (feat. Charlie Wilson)",
+      "artist": "Nas",
+      "has_synced": false,
+      "path": "select/03_No_Phony_Love_(feat._Charlie_Wilson)_Nas.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Phony Tony",
+      "artist": "Millencolin",
+      "has_synced": true,
+      "path": "select/04_Phony_Tony_Millencolin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Phony Game",
+      "artist": "Quasimoto",
+      "has_synced": true,
+      "path": "select/05_Phony_Game_Quasimoto.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Phony Calls (Parody of \"Waterfalls\" By TLC)",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/06_Phony_Calls_(Parody_of__Waterfalls__By_TLC)_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Phony Calls",
+      "artist": "'Weird Al' Yankovic",
+      "has_synced": true,
+      "path": "select/07_Phony_Calls_'Weird_Al'_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Phony Smiles & Fake Hellos",
+      "artist": "Black Label Society",
+      "has_synced": false,
+      "path": "select/08_Phony_Smiles_&_Fake_Hellos_Black_Label_Society.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Phony Calls",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/09_Phony_Calls_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "One Trick Phony",
+      "artist": "Sasha Alex Sloan",
+      "has_synced": true,
+      "path": "select/10_One_Trick_Phony_Sasha_Alex_Sloan.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "No Phony Love",
+      "artist": "Nas; Charlie Wilson",
+      "has_synced": true,
+      "path": "select/11_No_Phony_Love_Nas;_Charlie_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Phony Calls (Parody of Waterfalls by TLC)",
+      "artist": "“Weird Al” Yankovic",
+      "has_synced": true,
+      "path": "select/12_Phony_Calls_(Parody_of_Waterfalls_by_TLC)_“Weird_Al”_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Phony in a World of Holden Caulfields",
+      "artist": "Crywank",
+      "has_synced": false,
+      "path": "select/13_A_Phony_in_a_World_of_Holden_Caulfields_Crywank.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Phony King of England",
+      "artist": "Louis Prima feat. Disney Children's Chorus",
+      "has_synced": false,
+      "path": "select/14_The_Phony_King_of_England_Louis_Prima_feat._Disney_Children's_Chorus.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Phony King Of England",
+      "artist": "Louis Prima, The Disney Children's Chorus",
+      "has_synced": false,
+      "path": "select/15_The_Phony_King_Of_England_Louis_Prima,_The_Disney_Children's_Chorus.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Phony King of England",
+      "artist": "Phil Harris feat. Andy Devine",
+      "has_synced": true,
+      "path": "select/16_The_Phony_King_of_England_Phil_Harris_feat._Andy_Devine.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Phony King Of England",
+      "artist": "Phil Harris, Andy Devine",
+      "has_synced": true,
+      "path": "select/17_The_Phony_King_Of_England_Phil_Harris,_Andy_Devine.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Phony King of England (Country Western Version)",
+      "artist": "Phil Harris feat. Andy Devine & Disney Studio Chorus",
+      "has_synced": false,
+      "path": "select/18_The_Phony_King_of_England_(Country_Western_Version)_Phil_Harris_feat._Andy_Devine_&_Disney_Studio_Chorus.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Phony King Of England (Country Western Version)",
+      "artist": "Phil Harris, Andy Devine, The Disney Studio Chorus",
+      "has_synced": false,
+      "path": "select/19_The_Phony_King_Of_England_(Country_Western_Version)_Phil_Harris,_Andy_Devine,_The_Disney_Studio_Chorus.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "phony",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/pl_01_phony_Will_Stetson.txt"
+    }
+  ]
+}
