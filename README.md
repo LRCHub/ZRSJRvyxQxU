@@ -1,0 +1,99 @@
+# Will Stetson – phony
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+They say flowers fade and
+their beauty can’t be weighed
+with flowers so fake
+It’s all because the way things
+are made live on lies that
+fabricate
+Antipathy world
+I’ll raise, right away,
+my umbrella that will shade
+my body from rain
+Now dampened by the pain,
+can’t escape,
+here my bangs and heart remain
+All the trouble I face
+Before I knew,
+it withers way too soon,
+that one word that rings true
+And now, a fruit will bloom
+in my heart I can’t move
+Within the mirror’s sight,
+thеre’s a painting inside
+A sign of “makeup” lighting
+thе loss in my life
+Papapparapappararappappa
+Let’s play this game
+where we count the riddles
+that we made
+Tatattaratattararattatta
+Why stay, why stay
+in this place
+and dance the night away?
+I just can’t see the simple
+things I can’t keep
+What am I supposed to be?
+Shaken by the hand of night,
+it seems, stirring in a dream,
+like your love for me
+(It’s leaving, it’s leaving)
+I would cry and weep without
+a “bye” as I grieve
+Phony, phony, phony
+Still tangled up in lies,
+I see I’m just a fake, phony
+Antipathy world
+Before I knew,
+the sky, so very blue,
+joined an ugly old tune
+My colored view of you breaks
+away what you do
+Within the mirror’s sight,
+there, I’m missing inside
+There lies a “fake”
+that’s hiding the truth
+they can’t find
+I say, why live and stay
+where everybody craves
+that thing known as love
+that will only bring us pain?
+I play and swim today as I am
+left behind in every way
+by the train
+So dance the night away and
+Papparapappararappappa
+We meant pretense as
+we sang with riddles in the end
+Tatattaratattararattatta
+Why then, why then
+does it hurt
+so much right here again?
+I just can’t change the days
+I only feel pain
+I can’t escape this wave of
+limitless rain
+I would cry and weep without a
+“bye” as I grieve
+Phony, phony, phony
+Still tangled up in lies,
+I see you leave
+I just can’t see the simple
+things I can’t keep
+What am I supposed to be?
+Shaken by the hand of night,
+it seems, stirring in a dream,
+like your love for me
+(It’s leaving, it’s leaving)
+I will sigh and breathe
+a little “bye” as I grieve
+Phony, phony, phony
+Still tangled up in lies,
+I see I’m just a fake, phony
+Just flowers that deceive,
+they keep this secret, fake,
+phony
+```
